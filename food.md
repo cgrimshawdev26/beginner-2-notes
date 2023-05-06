@@ -1,6 +1,6 @@
 # Vocab
-Seabass - Lubina
-Chicken steak - Filete de pollo
+Seabass - Lubina  
+Chicken steak - Filete de pollo  
 Custard - Natillas
 Green beans - Judías verdes
 Ice cream - Helado
