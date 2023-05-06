@@ -26,4 +26,4 @@ It doesnt matter, then I will have... - No importa, entonces voy a tomar...
 Can I pay with a credit card? - ¿Se puede pagar / Puedo pagar con tarjeta (de crédito)?  
 What are you going to have? - ¿Qué va / van a tomar?  
 What is there to snack on? - ¿Qué hay para comer / beber / picar?  
-Can I have the bill? - ¿Me trae / da la cuenta?misceallaneous  
+Can I have the bill? - ¿Me trae / da la cuenta?  
